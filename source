@@ -1,0 +1,5 @@
+---abyss
+
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moreflowx/6/main/source", true))()
